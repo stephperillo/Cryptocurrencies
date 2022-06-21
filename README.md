@@ -59,7 +59,9 @@ I created a 3D scatterplot using Plotly Express `scatter_3d()` showing the three
 
 ![3d](https://user-images.githubusercontent.com/99934391/174871242-53726cdc-b965-40e3-844f-b2c273013859.gif)
 
-If you hover over a point on the graph, a pop up displays the Coin Name, Algorithm, Total Coins Mined, and Total Coin Supply.
+If you hover over a point on the graph, a pop up displays the Coin Name, Algorithm, Total Coins Mined, and Total Coin Supply:
+
+![hover](https://user-images.githubusercontent.com/99934391/174877006-99e60757-aa3b-47f0-91b4-6d6aa4bc4ccf.gif)
 
 I created a table showing the tradable cryptocurrencies using `hvplot.table()`:
 
