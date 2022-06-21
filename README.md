@@ -16,7 +16,7 @@ I created a new DataFrame `names_df` that holds only the cryptocurrency names an
 
 ![names](https://github.com/stephperillo/Cryptocurrencies/blob/main/Resources/names.png)
 
-Next I removed the `CoinName` column the `crypto_df` DatafFrame since it will not be used on the clustering algorithm.
+Next I removed the `CoinName` column from the `crypto_df` DatafFrame since it will not be used on the clustering algorithm.
 
 This is what `crypto_df` looks like at this point:
 
