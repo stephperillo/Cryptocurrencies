@@ -65,7 +65,7 @@ If you hover over a point on the graph, a pop up displays the Coin Name, Algorit
 
 I created a table showing the tradable cryptocurrencies using `hvplot.table()`:
 
-!(hvplot.table)[https://github.com/stephperillo/Cryptocurrencies/blob/main/Resources/hvplot.table.png]
+![hvplot](https://github.com/stephperillo/Cryptocurrencies/blob/main/Resources/hvplot.png)
 
 I wanted to plot the data on a 2D scatterplot so I scaled the data. `MinMaxScaler` is a tool used to scale features to fall between a minimum and maximum value. In this case we scaled the data between zero and one. 
 
